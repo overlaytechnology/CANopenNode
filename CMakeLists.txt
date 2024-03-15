@@ -1,0 +1,1 @@
+idf_component_register(SRCS "CANopen.c" INCLUDE_DIRS ".")
